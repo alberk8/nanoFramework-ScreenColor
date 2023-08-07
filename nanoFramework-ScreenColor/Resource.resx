@@ -121,7 +121,13 @@
   <data name="franklin_20" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\franklin_20.tinyfnt;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="rgb_bar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\rgb_bar.bmp;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="rgb_bar_bmp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rgb_bar_bmp.bmp;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rgb_bar_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rgb_bar_gif.gif;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rgb_bar_jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rgb_bar_jpg.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

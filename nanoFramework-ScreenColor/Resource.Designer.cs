@@ -41,7 +41,9 @@ namespace nanoFramework_ScreenColor
         [System.SerializableAttribute()]
         internal enum BitmapResources : short
         {
-            rgb_bar = -19063,
+            rgb_bar_gif = -25513,
+            rgb_bar_jpg = -5031,
+            rgb_bar_bmp = 31934,
         }
     }
 }
